@@ -1,4 +1,8 @@
 (fp_lib_table
-  (lib (name keyboard_parts)(type KiCad)(uri "D:/kicad keyboard libs/keyboard_parts.pretty-master")(options "")(descr ""))
-  (lib (name keebs)(type KiCad)(uri "D:/kicad keyboard libs/keebs.pretty-master")(options "")(descr ""))
+  (lib (name Jalapeno)(type KiCad)(uri "$(KIPRJMOD)/libs/Jalapeno.pretty")(options "")(descr ""))
+  (lib (name Keyboard)(type KiCad)(uri "$(KIPRJMOD)/libs/Keyboard.pretty")(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri "$(KIPRJMOD)/libs/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name kicad-libraries)(type KiCad)(uri "$(KIPRJMOD)/libs/kicad-libraries.pretty")(options "")(descr ""))
+  (lib (name RF_Modules_Custom)(type KiCad)(uri "$(KIPRJMOD)/libs/RF_Modules_Custom.pretty")(options "")(descr ""))
+  (lib (name CSTCE16M0V53-R0)(type Legacy)(uri "$(KIPRJMOD)/libs/Jalapeno.pretty/CSTCE16M0V53-R0.mod")(options "")(descr ""))
 )
