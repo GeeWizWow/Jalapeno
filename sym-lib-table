@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name jalapeno-rescue)(type Legacy)(uri ${KIPRJMOD}/jalapeno-rescue.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri "D:/kicad keyboard libs/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name ws2812b)(type Legacy)(uri "D:/kicad keyboard libs/WS2812B.pretty-master/Schematic-Symbol/ws2812b.lib")(options "")(descr ""))
+)
