@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -643,7 +643,7 @@ AREF
 Text Notes 4300 5150 0    79   ~ 0
 POWER & FILTERING
 $Sheet
-S 7250 5300 3750 1050
+S 7250 5300 1750 1050
 U 5AEA884A
 F0 "matrix" 79
 F1 "matrix.sch" 79
@@ -673,7 +673,7 @@ NoConn ~ 2850 3450
 NoConn ~ 2950 3450
 NoConn ~ 8150 2250
 NoConn ~ 8150 1650
-NoConn ~ 6700 1800
+NoConn ~ 6700 1900
 NoConn ~ 5700 6450
 Wire Wire Line
 	8150 2150 7850 2150
@@ -884,20 +884,16 @@ F 3 "" H 7000 1950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:USB_B J1
+L keyboard_parts:USB_mini_micro_B J1
 U 1 1 5AF201B1
-P 6500 1550
-F 0 "J1" H 6100 1550 60  0000 C CNN
-F 1 "USB_B" H 6350 1800 60  0000 C CNN
-F 2 "keyboard_parts:USB_miniB_hirose_5S8" H 6500 1550 60  0001 C CNN
-F 3 "" H 6500 1550 60  0000 C CNN
-	1    6500 1550
+P 6550 1550
+F 0 "J1" H 6150 1550 60  0000 C CNN
+F 1 "USB_B" H 6400 1800 60  0000 C CNN
+F 2 "keyboard_parts:USB_miniB_hirose_5S8" H 6550 1550 60  0001 C CNN
+F 3 "" H 6550 1550 60  0000 C CNN
+	1    6550 1550
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6700 1700 7000 1700
-Wire Wire Line
-	7000 1700 7000 1950
 Text GLabel 10300 2950 2    39   Input ~ 0
 COL_1
 Text GLabel 8150 2650 0    39   Input ~ 0
@@ -939,7 +935,6 @@ Text GLabel 10300 2250 2    39   Input ~ 0
 COL_11
 Text GLabel 10300 3250 2    39   Input ~ 0
 COL_10
-NoConn ~ 8150 3650
 Wire Wire Line
 	1500 1650 1500 1750
 Wire Wire Line
@@ -1241,4 +1236,17 @@ Text Label 4650 3850 2    39   ~ 0
 SWDCLK
 Text Label 4650 3950 2    39   ~ 0
 4_SWDIO/RST
+$Sheet
+S 9150 5300 1700 1050
+U 5B09CACC
+F0 "underglow" 79
+F1 "underglow.sch" 79
+$EndSheet
+Text GLabel 8150 3650 0    50   Input ~ 0
+RGB
+Wire Wire Line
+	6700 1800 7000 1800
+Wire Wire Line
+	7000 1800 7000 1950
+NoConn ~ 6700 1700
 $EndSCHEMATC
