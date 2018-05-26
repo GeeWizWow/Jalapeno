@@ -4,6 +4,8 @@
 
 ![Render Split](images/render_split.png)
 
+![Render Split hhkb](images/render_split_hhkb.png)
+
 ![Layout](images/layout.png)
 
 ## References
