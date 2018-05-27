@@ -1,0 +1,7 @@
+JLCPCB CAP
+
+Min. trace		5mil	0.13mm
+Min. spacing		5mil	0.13mm
+Min. via hole		-	0.3mm
+Min. via diam		-	0.6mm
+Min. via to trace	5mil	0.13mm
