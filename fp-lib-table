@@ -6,4 +6,5 @@
   (lib (name RF_Modules_Custom)(type KiCad)(uri "$(KIPRJMOD)/libs/RF_Modules_Custom.pretty")(options "")(descr ""))
   (lib (name CSTCE16M0V53-R0)(type Legacy)(uri "$(KIPRJMOD)/libs/Jalapeno.pretty/CSTCE16M0V53-R0.mod")(options "")(descr ""))
   (lib (name testpoint)(type KiCad)(uri "$(KIPRJMOD)/libs/testpoint.pretty")(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri "$(KIPRJMOD)/libs/WS2812B")(options "")(descr ""))
 )

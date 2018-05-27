@@ -240,8 +240,6 @@ F 3 "" H 2900 4050 50  0001 C CNN
 	1    2900 4050
 	1    0    0    -1  
 $EndComp
-Text Label 3250 4000 2    39   ~ 0
-DFU
 $Comp
 L power:GND #PWR014
 U 1 1 5AEA594C
@@ -270,7 +268,7 @@ U 1 1 5AEA6895
 P 4950 2500
 F 0 "LED2_0" H 4950 2600 50  0000 C TNN
 F 1 "CONN" H 4950 2400 50  0000 C CNN
-F 2 "LEDs:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 4950 2500 50  0001 C CNN
+F 2 "LEDs:LED_0805_HandSoldering" H 4950 2500 50  0001 C CNN
 F 3 "" H 4950 2500 50  0001 C CNN
 	1    4950 2500
 	0    -1   -1   0   
@@ -310,7 +308,7 @@ U 1 1 5AEA8B7A
 P 3150 5350
 F 0 "LED1_0" H 3150 5450 50  0000 C CNN
 F 1 "CHG" H 3100 5200 50  0000 C CNN
-F 2 "LEDs:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 3150 5350 50  0001 C CNN
+F 2 "LEDs:LED_0805_HandSoldering" H 3150 5350 50  0001 C CNN
 F 3 "" H 3150 5350 50  0001 C CNN
 	1    3150 5350
 	0    -1   -1   0   
@@ -836,10 +834,6 @@ F 3 "" H 4950 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3050 3450 3050 4000
-Wire Wire Line
-	3050 4000 3250 4000
-Wire Wire Line
 	1950 3600 1950 3450
 Wire Wire Line
 	3150 3450 3150 3600
@@ -1118,39 +1112,6 @@ Wire Wire Line
 Wire Wire Line
 	10300 2650 10750 2650
 $Comp
-L Connector_Generic:Conn_01x01 T2
-U 1 1 5B02CADB
-P 3450 4000
-F 0 "T2" H 3530 4042 50  0000 L CNN
-F 1 "Conn_01x01" H 3530 3951 50  0000 L CNN
-F 2 "testpoint:TestPoint_Pad_1.0x1.0mm" H 3450 4000 50  0001 C CNN
-F 3 "~" H 3450 4000 50  0001 C CNN
-	1    3450 4000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 T1
-U 1 1 5B02CC3A
-P 3450 3850
-F 0 "T1" H 3370 3625 50  0000 C CNN
-F 1 "Conn_01x01" H 3370 3716 50  0000 C CNN
-F 2 "testpoint:TestPoint_Pad_1.0x1.0mm" H 3450 3850 50  0001 C CNN
-F 3 "~" H 3450 3850 50  0001 C CNN
-	1    3450 3850
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR0106
-U 1 1 5B02CCD2
-P 3650 3850
-F 0 "#PWR0106" H 3650 3600 50  0001 C CNN
-F 1 "GND" H 3650 3700 50  0000 C CNN
-F 2 "" H 3650 3850 50  0001 C CNN
-F 3 "" H 3650 3850 50  0001 C CNN
-	1    3650 3850
-	0    -1   -1   0   
-$EndComp
-$Comp
 L Connector:AVR-ISP-6 J2
 U 1 1 5B02D67C
 P 6750 4100
@@ -1249,4 +1210,6 @@ Wire Wire Line
 Wire Wire Line
 	7000 1800 7000 1950
 NoConn ~ 6700 1700
+NoConn ~ 3050 3450
+NoConn ~ 4150 7000
 $EndSCHEMATC
