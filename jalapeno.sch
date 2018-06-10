@@ -1212,4 +1212,103 @@ Wire Wire Line
 NoConn ~ 6700 1700
 NoConn ~ 3050 3450
 NoConn ~ 4150 7000
+$Comp
+L Mechanical:Mounting_Hole H1
+U 1 1 5B1C04D6
+P 8950 4700
+F 0 "H1" H 9050 4746 50  0000 L CNN
+F 1 "Mounting_Hole" H 9050 4655 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 8950 4700 50  0001 C CNN
+F 3 "" H 8950 4700 50  0001 C CNN
+	1    8950 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole H2
+U 1 1 5B1C0653
+P 8950 4500
+F 0 "H2" H 9050 4546 50  0000 L CNN
+F 1 "Mounting_Hole" H 9050 4455 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 8950 4500 50  0001 C CNN
+F 3 "" H 8950 4500 50  0001 C CNN
+	1    8950 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole H3
+U 1 1 5B1C06AD
+P 8950 4300
+F 0 "H3" H 9050 4346 50  0000 L CNN
+F 1 "Mounting_Hole" H 9050 4255 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 8950 4300 50  0001 C CNN
+F 3 "" H 8950 4300 50  0001 C CNN
+	1    8950 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole H6
+U 1 1 5B1C0703
+P 9750 4300
+F 0 "H6" H 9850 4346 50  0000 L CNN
+F 1 "Mounting_Hole" H 9850 4255 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 9750 4300 50  0001 C CNN
+F 3 "" H 9750 4300 50  0001 C CNN
+	1    9750 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole H4
+U 1 1 5B1C07CB
+P 9750 4700
+F 0 "H4" H 9850 4746 50  0000 L CNN
+F 1 "Mounting_Hole" H 9850 4655 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 9750 4700 50  0001 C CNN
+F 3 "" H 9750 4700 50  0001 C CNN
+	1    9750 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole G1
+U 1 1 5B1C0BCC
+P 7850 4700
+F 0 "G1" H 7950 4746 50  0000 L CNN
+F 1 "Mounting_Hole" H 7950 4655 50  0000 L CNN
+F 2 "Jalapeno:LOGO" H 7850 4700 50  0001 C CNN
+F 3 "" H 7850 4700 50  0001 C CNN
+	1    7850 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole G2
+U 1 1 5B1CD0D9
+P 7850 4900
+F 0 "G2" H 7950 4946 50  0000 L CNN
+F 1 "Mounting_Hole" H 7950 4855 50  0000 L CNN
+F 2 "Jalapeno:OSHW_Logo" H 7850 4900 50  0001 C CNN
+F 3 "" H 7850 4900 50  0001 C CNN
+	1    7850 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole G3
+U 1 1 5B1DB41E
+P 7850 4500
+F 0 "G3" H 7950 4546 50  0000 L CNN
+F 1 "Mounting_Hole" H 7950 4455 50  0000 L CNN
+F 2 "Jalapeno:CC-BY-NC-SA" H 7850 4500 50  0001 C CNN
+F 3 "" H 7850 4500 50  0001 C CNN
+	1    7850 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole G1_0
+U 1 1 5B1DE55F
+P 7850 4300
+F 0 "G1_0" H 7950 4346 50  0000 L CNN
+F 1 "Mounting_Hole" H 7950 4255 50  0000 L CNN
+F 2 "Jalapeno:LOGO" H 7850 4300 50  0001 C CNN
+F 3 "" H 7850 4300 50  0001 C CNN
+	1    7850 4300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
