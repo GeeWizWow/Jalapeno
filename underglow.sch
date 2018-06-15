@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 3
+Sheet 3 4
 Title ""
 Date ""
 Rev ""
@@ -327,4 +327,15 @@ Wire Wire Line
 NoConn ~ 3200 2800
 Text GLabel 2850 4950 0    50   Input ~ 0
 RGB
+$Comp
+L Device:C_Small C?
+U 1 1 5B242A35
+P 2400 2550
+F 0 "C?" H 2492 2596 50  0000 L CNN
+F 1 "C_Small" H 2492 2505 50  0000 L CNN
+F 2 "" H 2400 2550 50  0001 C CNN
+F 3 "~" H 2400 2550 50  0001 C CNN
+	1    2400 2550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
