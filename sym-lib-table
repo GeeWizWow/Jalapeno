@@ -1,7 +1,8 @@
 (sym_lib_table
-  (lib (name jalapeno-rescue)(type Legacy)(uri ${KIPRJMOD}/jalapeno-rescue.lib)(options "")(descr ""))
+  (lib (name jalapeno-rescue)(type Legacy)(uri ${KIPRJMOD}/jalapeno-rescue.lib)(options " pwr_sym_only")(descr ""))
   (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/libs/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
   (lib (name MCP73831)(type Legacy)(uri ${KIPRJMOD}/libs/MCP73831/MCP73831T-2ACI_OT.lib)(options "")(descr ""))
   (lib (name RF_Modules)(type Legacy)(uri ${KIPRJMOD}/libs/mdbt40/RF_Modules.lib)(options "")(descr ""))
   (lib (name ws2812b)(type Legacy)(uri ${KIPRJMOD}/libs/WS2812B/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
+  (lib (name mx-alp-hybrid)(type Legacy)(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
 )
