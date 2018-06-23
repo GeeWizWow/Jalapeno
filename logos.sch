@@ -20,7 +20,7 @@ U 1 1 5B23F8AA
 P 1150 4150
 F 0 "H1" H 1250 4196 50  0000 L CNN
 F 1 "Mounting_Hole" H 1250 4105 50  0000 L CNN
-F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 1150 4150 50  0001 C CNN
+F 2 "Jalapeno:NOOP" H 1150 4150 50  0001 C CNN
 F 3 "" H 1150 4150 50  0001 C CNN
 	1    1150 4150
 	1    0    0    -1  
@@ -31,7 +31,7 @@ U 1 1 5B23F8B1
 P 1150 3950
 F 0 "H2" H 1250 3996 50  0000 L CNN
 F 1 "Mounting_Hole" H 1250 3905 50  0000 L CNN
-F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 1150 3950 50  0001 C CNN
+F 2 "Jalapeno:NOOP" H 1150 3950 50  0001 C CNN
 F 3 "" H 1150 3950 50  0001 C CNN
 	1    1150 3950
 	1    0    0    -1  
@@ -42,7 +42,7 @@ U 1 1 5B23F8B8
 P 1150 3750
 F 0 "H3" H 1250 3796 50  0000 L CNN
 F 1 "Mounting_Hole" H 1250 3705 50  0000 L CNN
-F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 1150 3750 50  0001 C CNN
+F 2 "Jalapeno:NOOP" H 1150 3750 50  0001 C CNN
 F 3 "" H 1150 3750 50  0001 C CNN
 	1    1150 3750
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5B23F8BF
 P 1950 3750
 F 0 "H4" H 2050 3796 50  0000 L CNN
 F 1 "Mounting_Hole" H 2050 3705 50  0000 L CNN
-F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 1950 3750 50  0001 C CNN
+F 2 "Jalapeno:NOOP" H 1950 3750 50  0001 C CNN
 F 3 "" H 1950 3750 50  0001 C CNN
 	1    1950 3750
 	1    0    0    -1  
@@ -64,7 +64,7 @@ U 1 1 5B23F8C6
 P 1950 4150
 F 0 "H6" H 2050 4196 50  0000 L CNN
 F 1 "Mounting_Hole" H 2050 4105 50  0000 L CNN
-F 2 "Mounting_Holes:MountingHole_2.2mm_M2_Pad" H 1950 4150 50  0001 C CNN
+F 2 "Jalapeno:NOOP" H 1950 4150 50  0001 C CNN
 F 3 "" H 1950 4150 50  0001 C CNN
 	1    1950 4150
 	1    0    0    -1  

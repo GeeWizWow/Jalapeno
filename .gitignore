@@ -27,3 +27,5 @@ _autosave-*
 
 gerber/
 rescue-backup/
+
+*.tiff
