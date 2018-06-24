@@ -160,12 +160,12 @@ $EndComp
 $Comp
 L keyboard_parts:KEYSW K40
 U 1 1 5AEA9936
-P 5600 3100
-F 0 "K40" H 5550 3100 60  0000 C CNN
-F 1 "gui" H 5600 3000 60  0001 C CNN
-F 2 "Jalapeno:CHERRY_PCB_125H_LED" H 5600 3100 60  0001 C CNN
-F 3 "" H 5600 3100 60  0000 C CNN
-	1    5600 3100
+P 9650 3100
+F 0 "K40" H 9600 3100 60  0000 C CNN
+F 1 "gui" H 9650 3000 60  0001 C CNN
+F 2 "Jalapeno:CHERRY_PCB_125H_LED" H 9650 3100 60  0001 C CNN
+F 3 "" H 9650 3100 60  0000 C CNN
+	1    9650 3100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -424,12 +424,12 @@ $EndComp
 $Comp
 L keyboard_parts:D D39
 U 1 1 5AEAAC33
-P 5100 3500
-F 0 "D39" V 4950 3450 60  0000 C CNN
-F 1 "D" V 5250 3450 60  0001 C CNN
-F 2 "Jalapeno:D_0805" H 5100 3500 60  0001 C CNN
-F 3 "" H 5100 3500 60  0000 C CNN
-	1    5100 3500
+P 9100 3550
+F 0 "D39" V 8950 3500 60  0000 C CNN
+F 1 "D" V 9250 3500 60  0001 C CNN
+F 2 "Jalapeno:D_0805" H 9100 3550 60  0001 C CNN
+F 3 "" H 9100 3550 60  0000 C CNN
+	1    9100 3550
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -468,12 +468,12 @@ $EndComp
 $Comp
 L keyboard_parts:D D40
 U 1 1 5AEAAD9F
-P 5900 3500
-F 0 "D40" V 5750 3450 60  0000 C CNN
-F 1 "D" V 6050 3450 60  0001 C CNN
-F 2 "Jalapeno:D_0805" H 5900 3500 60  0001 C CNN
-F 3 "" H 5900 3500 60  0000 C CNN
-	1    5900 3500
+P 9950 3500
+F 0 "D40" V 9800 3450 60  0000 C CNN
+F 1 "D" V 10100 3450 60  0001 C CNN
+F 2 "Jalapeno:D_0805" H 9950 3500 60  0001 C CNN
+F 3 "" H 9950 3500 60  0000 C CNN
+	1    9950 3500
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -512,12 +512,12 @@ $EndComp
 $Comp
 L keyboard_parts:D D41
 U 1 1 5AEAAF0B
-P 6700 3500
-F 0 "D41" V 6550 3450 60  0000 C CNN
-F 1 "D" V 6850 3450 60  0001 C CNN
-F 2 "Jalapeno:D_0805" H 6700 3500 60  0001 C CNN
-F 3 "" H 6700 3500 60  0000 C CNN
-	1    6700 3500
+P 8300 3550
+F 0 "D41" V 8150 3500 60  0000 C CNN
+F 1 "D" V 8450 3500 60  0001 C CNN
+F 2 "Jalapeno:D_0805" H 8300 3550 60  0001 C CNN
+F 3 "" H 8300 3550 60  0000 C CNN
+	1    8300 3550
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -556,12 +556,12 @@ $EndComp
 $Comp
 L keyboard_parts:D D42
 U 1 1 5AEAB047
-P 7500 3500
-F 0 "D42" V 7350 3450 60  0000 C CNN
-F 1 "D" V 7650 3450 60  0001 C CNN
-F 2 "Jalapeno:D_0805" H 7500 3500 60  0001 C CNN
-F 3 "" H 7500 3500 60  0000 C CNN
-	1    7500 3500
+P 6700 3550
+F 0 "D42" V 6550 3500 60  0000 C CNN
+F 1 "D" V 6850 3500 60  0001 C CNN
+F 2 "Jalapeno:D_0805" H 6700 3550 60  0001 C CNN
+F 3 "" H 6700 3550 60  0000 C CNN
+	1    6700 3550
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -789,12 +789,12 @@ MATRIX
 $Comp
 L keyboard_parts:KEYSW K42
 U 1 1 5AECECA9
-P 7200 3100
-F 0 "K42" H 7150 3100 60  0000 C CNN
-F 1 "KEYSW" H 7200 3000 60  0001 C CNN
-F 2 "Jalapeno:CHERRY_PCB_275H_LED" H 7200 3100 60  0001 C CNN
-F 3 "" H 7200 3100 60  0000 C CNN
-	1    7200 3100
+P 6400 3100
+F 0 "K42" H 6350 3100 60  0000 C CNN
+F 1 "KEYSW" H 6400 3000 60  0001 C CNN
+F 2 "Jalapeno:CHERRY_PCB_275H_LED" H 6400 3100 60  0001 C CNN
+F 3 "" H 6400 3100 60  0000 C CNN
+	1    6400 3100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -811,23 +811,23 @@ $EndComp
 $Comp
 L keyboard_parts:KEYSW K41
 U 1 1 5AEA9B25
-P 6400 3100
-F 0 "K41" H 6350 3100 60  0000 C CNN
-F 1 "ctrl" H 6400 3000 60  0001 C CNN
-F 2 "Jalapeno:CHERRY_PCB_125H_LED" H 6400 3100 60  0001 C CNN
-F 3 "" H 6400 3100 60  0000 C CNN
-	1    6400 3100
+P 8000 3100
+F 0 "K41" H 7950 3100 60  0000 C CNN
+F 1 "ctrl" H 8000 3000 60  0001 C CNN
+F 2 "Jalapeno:CHERRY_PCB_125H_LED" H 8000 3100 60  0001 C CNN
+F 3 "" H 8000 3100 60  0000 C CNN
+	1    8000 3100
 	1    0    0    -1  
 $EndComp
 $Comp
 L keyboard_parts:KEYSW K39
 U 1 1 5AEA8B93
-P 4800 3100
-F 0 "K39" H 4750 3100 60  0000 C CNN
-F 1 "alt" H 4800 3000 60  0001 C CNN
-F 2 "Jalapeno:CHERRY_PCB_125H_LED_REVERSED" H 4800 3100 60  0001 C CNN
-F 3 "" H 4800 3100 60  0000 C CNN
-	1    4800 3100
+P 8800 3100
+F 0 "K39" H 8750 3100 60  0000 C CNN
+F 1 "alt" H 8800 3000 60  0001 C CNN
+F 2 "Jalapeno:CHERRY_PCB_125H_LED_REVERSED" H 8800 3100 60  0001 C CNN
+F 3 "" H 8800 3100 60  0000 C CNN
+	1    8800 3100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -964,12 +964,12 @@ $EndComp
 $Comp
 L keyboard_parts:KEYSW K39_1
 U 1 1 5B114C4E
-P 4800 3200
-F 0 "K39_1" H 4750 3200 60  0000 C CNN
-F 1 "gui" H 4800 3100 60  0001 C CNN
-F 2 "Jalapeno:CHERRY_PCB_100H_LED" H 4800 3200 60  0001 C CNN
-F 3 "" H 4800 3200 60  0000 C CNN
-	1    4800 3200
+P 8800 3200
+F 0 "K39_1" H 8750 3200 60  0000 C CNN
+F 1 "gui" H 8800 3100 60  0001 C CNN
+F 2 "Jalapeno:CHERRY_PCB_100H_LED" H 8800 3200 60  0001 C CNN
+F 3 "" H 8800 3200 60  0000 C CNN
+	1    8800 3200
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1360,19 +1360,8 @@ $EndComp
 $Comp
 L Device:R_Small RK42
 U 1 1 5B3F0D76
-P 7350 3350
-F 0 "RK42" H 7409 3396 50  0000 L CNN
-F 1 "330" H 7409 3305 50  0000 L CNN
-F 2 "Jalapeno:R_0805" H 7350 3350 50  0001 C CNN
-F 3 "~" H 7350 3350 50  0001 C CNN
-	1    7350 3350
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R_Small RK41
-U 1 1 5B3F0E98
 P 6550 3350
-F 0 "RK41" H 6609 3396 50  0000 L CNN
+F 0 "RK42" H 6609 3396 50  0000 L CNN
 F 1 "330" H 6609 3305 50  0000 L CNN
 F 2 "Jalapeno:R_0805" H 6550 3350 50  0001 C CNN
 F 3 "~" H 6550 3350 50  0001 C CNN
@@ -1380,25 +1369,36 @@ F 3 "~" H 6550 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Device:R_Small RK41
+U 1 1 5B3F0E98
+P 8150 3350
+F 0 "RK41" H 8209 3396 50  0000 L CNN
+F 1 "330" H 8209 3305 50  0000 L CNN
+F 2 "Jalapeno:R_0805" H 8150 3350 50  0001 C CNN
+F 3 "~" H 8150 3350 50  0001 C CNN
+	1    8150 3350
+	1    0    0    -1  
+$EndComp
+$Comp
 L Device:R_Small RK40
 U 1 1 5B3F0FB6
-P 5750 3350
-F 0 "RK40" H 5809 3396 50  0000 L CNN
-F 1 "330" H 5809 3305 50  0000 L CNN
-F 2 "Jalapeno:R_0805" H 5750 3350 50  0001 C CNN
-F 3 "~" H 5750 3350 50  0001 C CNN
-	1    5750 3350
+P 9800 3350
+F 0 "RK40" H 9859 3396 50  0000 L CNN
+F 1 "330" H 9859 3305 50  0000 L CNN
+F 2 "Jalapeno:R_0805" H 9800 3350 50  0001 C CNN
+F 3 "~" H 9800 3350 50  0001 C CNN
+	1    9800 3350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small RK39
 U 1 1 5B3F10CA
-P 4950 3450
-F 0 "RK39" H 5009 3496 50  0000 L CNN
-F 1 "330" H 5009 3405 50  0000 L CNN
-F 2 "Jalapeno:R_0805" H 4950 3450 50  0001 C CNN
-F 3 "~" H 4950 3450 50  0001 C CNN
-	1    4950 3450
+P 8950 3450
+F 0 "RK39" H 9009 3496 50  0000 L CNN
+F 1 "330" H 9009 3405 50  0000 L CNN
+F 2 "Jalapeno:R_0805" H 8950 3450 50  0001 C CNN
+F 3 "~" H 8950 3450 50  0001 C CNN
+	1    8950 3450
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1559,24 +1559,11 @@ Wire Wire Line
 	4500 1750 4500 2450
 Connection ~ 4500 2450
 Wire Wire Line
-	4500 2450 4500 3100
-Connection ~ 4500 3100
-Wire Wire Line
-	4500 3100 4500 3200
-Connection ~ 4500 3200
-Wire Wire Line
-	4500 3200 4500 4700
-Wire Wire Line
 	5300 1100 5300 1750
 Connection ~ 5300 1750
 Wire Wire Line
 	5300 1750 5300 2450
 Connection ~ 5300 2450
-Wire Wire Line
-	5300 2450 5300 3100
-Connection ~ 5300 3100
-Wire Wire Line
-	5300 3100 5300 4700
 Wire Wire Line
 	6100 1100 6100 1750
 Connection ~ 6100 1750
@@ -1584,21 +1571,11 @@ Wire Wire Line
 	6100 1750 6100 2450
 Connection ~ 6100 2450
 Wire Wire Line
-	6100 2450 6100 3100
-Connection ~ 6100 3100
-Wire Wire Line
-	6100 3100 6100 4700
-Wire Wire Line
 	6900 1100 6900 1750
 Connection ~ 6900 1750
 Wire Wire Line
 	6900 1750 6900 2450
 Connection ~ 6900 2450
-Wire Wire Line
-	6900 2450 6900 3100
-Connection ~ 6900 3100
-Wire Wire Line
-	6900 3100 6900 4700
 Wire Wire Line
 	7700 1100 7700 1750
 Connection ~ 7700 1750
@@ -1606,7 +1583,7 @@ Wire Wire Line
 	7700 1750 7700 2450
 Connection ~ 7700 2450
 Wire Wire Line
-	7700 2450 7700 4700
+	7700 2450 7700 3100
 Wire Wire Line
 	8500 1100 8500 1750
 Connection ~ 8500 1750
@@ -1617,7 +1594,7 @@ Wire Wire Line
 	8500 2450 8500 2550
 Connection ~ 8500 2550
 Wire Wire Line
-	8500 2550 8500 4700
+	8500 2550 8500 3100
 Wire Wire Line
 	9350 1100 9350 1750
 Connection ~ 9350 1750
@@ -1628,7 +1605,7 @@ Wire Wire Line
 	9350 2450 9350 2550
 Connection ~ 9350 2550
 Wire Wire Line
-	9350 2550 9350 4700
+	9350 2550 9350 3100
 Wire Wire Line
 	10150 1100 10150 4700
 Wire Wire Line
@@ -1875,19 +1852,6 @@ Wire Wire Line
 Wire Wire Line
 	850  3600 1900 3600
 Wire Wire Line
-	7500 3600 7500 3550
-Wire Wire Line
-	7500 3350 7500 3100
-Wire Wire Line
-	6700 3350 6700 3100
-Wire Wire Line
-	5900 3350 5900 3100
-Wire Wire Line
-	5100 3350 5100 3200
-Connection ~ 5100 3200
-Wire Wire Line
-	5100 3200 5100 3100
-Wire Wire Line
 	4300 3350 4300 3200
 Connection ~ 4300 3200
 Wire Wire Line
@@ -1914,23 +1878,6 @@ Wire Wire Line
 Wire Wire Line
 	4300 3550 4300 3600
 Connection ~ 4300 3600
-Wire Wire Line
-	4300 3600 5100 3600
-Wire Wire Line
-	5100 3550 5100 3600
-Connection ~ 5100 3600
-Wire Wire Line
-	5100 3600 5900 3600
-Wire Wire Line
-	5900 3550 5900 3600
-Connection ~ 5900 3600
-Wire Wire Line
-	5900 3600 6700 3600
-Wire Wire Line
-	6700 3550 6700 3600
-Connection ~ 6700 3600
-Wire Wire Line
-	6700 3600 7500 3600
 Wire Wire Line
 	10300 1250 10300 850 
 Wire Wire Line
@@ -1972,8 +1919,6 @@ Wire Wire Line
 Connection ~ 7850 1900
 Wire Wire Line
 	7850 1900 7850 1250
-Wire Wire Line
-	7050 3250 7050 2600
 Connection ~ 7050 850 
 Wire Wire Line
 	7050 850  7850 850 
@@ -1983,11 +1928,8 @@ Wire Wire Line
 Connection ~ 7050 1900
 Wire Wire Line
 	7050 1900 7050 1250
-Connection ~ 7050 2600
 Wire Wire Line
 	7050 2600 7050 1900
-Wire Wire Line
-	6250 3250 6250 2600
 Connection ~ 6250 850 
 Wire Wire Line
 	6250 850  7050 850 
@@ -1997,11 +1939,8 @@ Wire Wire Line
 Connection ~ 6250 1900
 Wire Wire Line
 	6250 1900 6250 1250
-Connection ~ 6250 2600
 Wire Wire Line
 	6250 2600 6250 1900
-Wire Wire Line
-	5450 3250 5450 2600
 Connection ~ 5450 850 
 Wire Wire Line
 	5450 850  6250 850 
@@ -2011,11 +1950,8 @@ Wire Wire Line
 Connection ~ 5450 1900
 Wire Wire Line
 	5450 1900 5450 1250
-Connection ~ 5450 2600
 Wire Wire Line
 	5450 2600 5450 1900
-Wire Wire Line
-	4650 3350 4650 3250
 Wire Wire Line
 	1450 850  2250 850 
 Connection ~ 4650 850 
@@ -2027,12 +1963,8 @@ Wire Wire Line
 Connection ~ 4650 1900
 Wire Wire Line
 	4650 1900 4650 1250
-Connection ~ 4650 2600
 Wire Wire Line
 	4650 2600 4650 1900
-Connection ~ 4650 3250
-Wire Wire Line
-	4650 3250 4650 2600
 Wire Wire Line
 	3850 3350 3850 3250
 Connection ~ 3850 850 
@@ -2216,28 +2148,12 @@ Connection ~ 10600 3450
 Wire Wire Line
 	10600 3450 10600 3550
 Connection ~ 2550 3450
-Wire Wire Line
-	2550 3450 5750 3450
-Connection ~ 5750 3450
-Wire Wire Line
-	5750 3450 6550 3450
-Connection ~ 6550 3450
-Wire Wire Line
-	6550 3450 7350 3450
-Connection ~ 7350 3450
-Wire Wire Line
-	7350 3450 10600 3450
 Connection ~ 10600 3550
 Wire Wire Line
 	10600 3550 10600 4150
 Connection ~ 4150 3550
-Connection ~ 4950 3550
 Wire Wire Line
 	3350 3550 4150 3550
-Wire Wire Line
-	4150 3550 4950 3550
-Wire Wire Line
-	4950 3550 10600 3550
 Wire Wire Line
 	3350 3250 3350 3350
 Connection ~ 3350 3350
@@ -2249,7 +2165,85 @@ Wire Wire Line
 Wire Wire Line
 	4150 3250 4150 3350
 Connection ~ 4150 3350
+Connection ~ 9350 3100
 Wire Wire Line
-	4950 3250 4950 3350
-Connection ~ 4950 3350
+	9350 3100 9350 4700
+Connection ~ 9800 3450
+Wire Wire Line
+	9800 3450 10600 3450
+Wire Wire Line
+	9500 3250 9500 2700
+Wire Wire Line
+	5300 2450 5300 4700
+Connection ~ 9500 2700
+Wire Wire Line
+	9950 3350 9950 3100
+Wire Wire Line
+	9950 3600 9950 3550
+Connection ~ 8500 3100
+Wire Wire Line
+	8500 3100 8500 3200
+Connection ~ 8500 3200
+Wire Wire Line
+	8500 3200 8500 4700
+Connection ~ 9100 3600
+Wire Wire Line
+	9100 3600 9950 3600
+Wire Wire Line
+	4500 2450 4500 4700
+Wire Wire Line
+	8650 3250 8650 3350
+Wire Wire Line
+	8650 3250 8650 2700
+Connection ~ 8650 3250
+Connection ~ 8650 2700
+Wire Wire Line
+	9100 3100 9100 3200
+Connection ~ 9100 3200
+Wire Wire Line
+	9100 3200 9100 3400
+Connection ~ 8950 3550
+Wire Wire Line
+	8950 3550 10600 3550
+Wire Wire Line
+	4150 3550 8950 3550
+Wire Wire Line
+	8950 3350 8950 3250
+Connection ~ 8950 3350
+Connection ~ 7700 3100
+Wire Wire Line
+	7700 3100 7700 4700
+Connection ~ 8300 3600
+Wire Wire Line
+	8300 3600 9100 3600
+Connection ~ 8150 3450
+Wire Wire Line
+	8150 3450 9800 3450
+Wire Wire Line
+	8300 3400 8300 3100
+Wire Wire Line
+	6100 2450 6100 3100
+Wire Wire Line
+	2550 3450 6550 3450
+Wire Wire Line
+	7850 3250 7850 2600
+Connection ~ 7850 2600
+Wire Wire Line
+	4300 3600 6700 3600
+Connection ~ 6100 3100
+Wire Wire Line
+	6100 3100 6100 4700
+Connection ~ 6550 3450
+Connection ~ 6700 3600
+Wire Wire Line
+	6250 3250 6250 2600
+Wire Wire Line
+	6900 2450 6900 4700
+Wire Wire Line
+	6550 3450 8150 3450
+Connection ~ 6250 2600
+Wire Wire Line
+	6700 3100 6700 3400
+Wire Wire Line
+	6700 3600 8300 3600
 $EndSCHEMATC
