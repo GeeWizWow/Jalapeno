@@ -1,7 +1,5 @@
 # Jalapeno BLE
 
-![PCB Front](renders/front.PNG)
-
 ![PCB Back](renders/back.PNG)
 
 ![Render](images/render.png)
